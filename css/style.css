@@ -4,4 +4,7 @@
       font-size: 150%;
     }
     
-    
+      .myClass {
+      background-color: gray;
+      color: blue
+    }
